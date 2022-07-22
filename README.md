@@ -1,4 +1,4 @@
-# Bayat_Task_Backend
+# Bayzat_Task_Backend
 
 # Backend Engineer Assignment
 In this assignment, you are expected to build an API backend with Spring Boot framework for an imaginary mobile application. Please read the constraints and tasks carefully and follow submission guideline at the bottom of the page.
